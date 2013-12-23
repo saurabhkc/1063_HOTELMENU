@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HOTEL  MENU</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+     <string-array name="titles"  >
+        <item >COFFEE</item> 
+         <item >TEA</item> 
+         <item >PLAIN PIZZA</item> 
+         <item >CHEESE PIZZA</item> 
+         <item >VEG BIRYANI</item>
+         <item >VEG PULAO</item>
+         <item >PLAIN DOSA</item>
+         <item >SINDHI BIRYANI</item>
+         <item >ICECREAM SCOOP</item>
+         <item >CHOCOLATE FUDGE</item> 
+         <item >BANANA SPLIT</item> 
+         <item >VANILLA ICECREAM</item> 
+         <item >CHOCOLATE ICECREAM</item>
+          <item >STAWBERRY ICECREAM</item>
+         <item >GULAB JAMUN</item>
+          <item >PEDA</item>
+         <item >RASMALAI</item>
+         <item >PLEASE PLACE YOUR ORDER </item> 
+     </string-array>
+       <string-array name="PRICE"  >
+        <item >RS.20</item> 
+         <item >RS.15</item> 
+         <item >RS.45</item> 
+         <item >RS.60</item> 
+         <item >RS.40</item> 
+         <item >RS.50</item> 
+         <item >RS.40</item> 
+         <item >RS.60</item> 
+         <item >RS.50</item> 
+         <item >RS.50</item> 
+         <item >RS.70</item> 
+         <item >RS.50</item>
+         <item >RS.70</item> 
+         <item >RS.80</item> 
+         <item >RS.80</item>
+         <item >RS.60</item>
+         <item >RS.90</item>
+         <item >PLEASE VISIT AGAIN</item> 
+         
+          <item ></item>   
+     </string-array>
+</resources>
+  
